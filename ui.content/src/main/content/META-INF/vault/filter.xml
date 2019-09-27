@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/mobileonline"/>
+    <filter root="/content/mobileonline"/>
+    <filter root="/content/dam/mobileonline"/>
+</workspaceFilter>
